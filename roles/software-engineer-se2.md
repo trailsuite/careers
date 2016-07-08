@@ -7,7 +7,7 @@ We’ve already raised significant capital and signed companies such as Itsu, To
 ## The Role
 Are you looking for a role that can provide real opportunities and real technical challenges at a company you can help shape? Over the next twelve months we’ll be extending our product into new businesses, regions and devices. We’ll also be growing the user base ten fold. We’re looking for a full stack engineer to help do this. Somebody driven to develop the way we work, as well as the software we write.
 
-_We want smart people to help disrupt enterprise software with consumer UX and product quality!_
+**_We want smart people to help us disrupt the Enterprise Software industry with consumer UX & product quality!_**
 
 ## How We Work
 Trail works with a modern stack and tools like `Heroku`, `CircleCI`, `AWS`, `Postgres`, `React`, `Productboard` and `Slack`. We know that TDD, automated end-to-end testing, peer reviews, and an agile workflow result in awesome products and happy customers. We also like solving interesting problems like complex domain modelling, third-party integrations, highly performant UIs and data extraction & transformation.
