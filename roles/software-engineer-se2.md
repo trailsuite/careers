@@ -58,7 +58,7 @@ alt="Holiday umbrella" width="18" height="18" /> Employee R&D time
 - <img src="/assets/nucleo/files-color_money.png" 
 alt="Holiday umbrella" width="18" height="18" /> Share options
 
-## The product
+## The App
 
 ![Product demo gif](/assets/product.gif "Product demo gif")
 
