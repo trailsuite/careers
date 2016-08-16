@@ -80,4 +80,4 @@ Or look at this ever so flattering picture of us on our last away trip: ![Trail 
 
 ## How to apply
 
-Get in touch via our jobs page [https://trailsuite.recruiterbox.com/](https://trailsuite.recruiterbox.com/)
+Hit us up on Recruiterbox [https://trailsuite.recruiterbox.com/jobs/fk0hp6l/](https://trailsuite.recruiterbox.com/jobs/fk0hp6l/)
