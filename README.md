@@ -40,7 +40,7 @@ These technologies have allowed us to grow our business quickly but we're not ti
 ## Benefits
 
 - <img src="assets/nucleo/objects-color_umbrella-14.png" 
-alt="Holiday umbrella" width="18" height="18" /> 25 Days Holidays
+alt="Holiday umbrella" width="18" height="18" /> 25 days holidays
 
 - <img src="assets/nucleo/ui-color-2_time-clock.png" 
 alt="Holiday umbrella" width="18" height="18" /> Flexible hours and remote working
@@ -50,6 +50,9 @@ alt="Holiday umbrella" width="18" height="18" /> Employee R&D time
 
 - <img src="assets/nucleo/files-color_money.png" 
 alt="Holiday umbrella" width="18" height="18" /> Share options
+
+- <img src="assets/nucleo/business-color_badge.png" 
+alt="Conference badge" width="18" height="18" /> Conference budget
 
 ## The App
 
