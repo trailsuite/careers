@@ -10,7 +10,7 @@ Are you looking for a role that can provide real opportunities and real technica
 **_We want smart people to help us disrupt the Enterprise Software industry with consumer UX & product quality!_**
 
 ## How We Work
-Trail works with a modern stack and tools like `Heroku`, `CircleCI`, `AWS`, `Postgres`, `React`, `Productboard` and `Slack`. We know that TDD, automated end-to-end testing, peer reviews, and an agile workflow result in awesome products and happy customers. We also like solving interesting problems like complex domain modelling, third-party integrations, highly performant UIs and data extraction & transformation.
+Trail works with a modern stack and tools like `Heroku`, `CircleCI`, `Terraform`, `AWS`, `Postgres`, `React`, `Productboard` and `Slack`. We know that TDD, automated end-to-end testing, peer reviews, and an agile workflow result in awesome products and happy customers. We also like solving interesting problems like complex domain modelling, third-party integrations, highly performant UIs and data extraction & transformation.
 
 We’re small - and want to stay that way! We want to build a small and talented team that remains nimble whilst solving the biggest problems the industry faces. A place everybody can shape.
 
