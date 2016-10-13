@@ -58,6 +58,9 @@ alt="Holiday umbrella" width="18" height="18" /> Employee R&D time
 - <img src="/assets/nucleo/files-color_money.png" 
 alt="Holiday umbrella" width="18" height="18" /> Share options
 
+- <img src="assets/nucleo/business-color_badge.png" 
+alt="Conference badge" width="18" height="18" /> Conference budget
+
 ## The App
 
 ![Product demo gif](/assets/product.gif "Product demo gif")
