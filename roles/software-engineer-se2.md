@@ -79,7 +79,7 @@ alt="Conference badge" width="18" height="18" /> Conference budget
 
 You can find the team on LinkedIn, [here](https://www.linkedin.com/vsearch/p?f_CC=9249864&trk=rr_connectedness).
 
-Or look at this ever so flattering picture of us on our Berlin team building trip: ![Trail team](/assets/team.jpg "Trail team")
+Or look at this ever so flattering picture of us on our Berlin team building trip: ![Trail team](/assets/team.png "Trail team")
 
 ## How to apply
 
