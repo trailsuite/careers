@@ -42,7 +42,7 @@ The Joel Test is a twelve-question measure of the quality of a software team.
 - We use the best tools money can buy.
 - New candidates write code during their interview.
 - We do hallway usability testing.
-- ~We have testers~ (We used CD along with manual sign off from the UX team)
+- ~~We have testers~~ (We use extensive automated testing with CD along with manual sign off from the UX team)
 
 ## Our benefits 
 
